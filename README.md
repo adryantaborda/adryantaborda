@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Adryan 👋</h1>
 
 <p align="center">
-  🔧 Backend Developer | 🧠 Thinking in DSLs & architecture | 🛰️ Django, Go, Elixir | 🇧🇷 🇺🇸
+  🔧 Backend Developer | 🧠 Thinking in DSLs & architecture | 🛰️ Django, Go | 🇧🇷 🇺🇸
 </p>
 
 ---
@@ -12,8 +12,6 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Gin Gonic](https://img.shields.io/badge/Gin_Gonic-00ADD8?style=for-the-badge&logo=gin&logoColor=white)
-![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
-![Phoenix](https://img.shields.io/badge/Phoenix%20Framework-EF4035?style=for-the-badge&logo=phoenix-framework&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
 ---
