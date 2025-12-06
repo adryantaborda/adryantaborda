@@ -18,7 +18,7 @@
 
 ### ⚡ About Me
 
-- 🔭 Currently building a robust **Field Ops SaaS** backend (Django + Go + Phoenix)
+- 🔭 Currently building a robust **Field Ops SaaS** backend (Django + Go)
 - 🧱 I work with multi-tenant monolithic architectures, traceability, workflows, and automation
 - 💬 I enjoy discussing software architecture, productivity, and real-world business solutions
 - 🌱 Exploring game development using TypeScript and custom engines
