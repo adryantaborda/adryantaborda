@@ -1,48 +1,56 @@
 <h1 align="center">Hi there, I'm Adryan 👋</h1>
 
 <p align="center">
-  🔧 Backend Developer | 🧠 Thinking in DSLs & architecture | 🛰️ Django, Go | 🇧🇷 🇺🇸
+  <strong>Backend Developer | Architecture Enthusiast | DSL & Automation Specialist</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
 ---
 
-### 🧰 Tech Stack I Master
+### 🚀 Sobre Mim
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Gin Gonic](https://img.shields.io/badge/Gin_Gonic-00ADD8?style=for-the-badge&logo=gin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![Ollama](https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white)
-![LangChain](https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
----
+Sou um desenvolvedor focado em construir sistemas escaláveis e resilientes. Atualmente, meu foco está na interseção entre **arquitetura multi-tenant** e a criação de linguagens de domínio específico (DSLs) para automação de processos complexos.
 
-### ⚡ About Me
-
-- 🔭 Currently building a robust **Field Ops SaaS** backend (Django + Go)
-- 🧱 I work with multi-tenant monolithic architectures, traceability, workflows, and automation
-- 💬 I enjoy discussing software architecture, productivity, and real-world business solutions
-- 🌱 Exploring game development using TypeScript and custom engines
-
-My latest Project: https://info.alphahuboficial.com.br/
----
-
-### 💡 Fun Fact
-
-> "*Architecture is not about stacking blocks — it's about orchestrating legibility, traceability, and trust in software.*"
+- 🔭 **Atualmente:** Construindo um ecossistema de Backend para **Field Ops SaaS** utilizando Django e Go.
+- 🧱 **Expertise:** Monólitos modulares, rastreabilidade total, fluxos de trabalho automatizados e arquitetura orientada a negócios.
+- 🌱 **Explorando:** Desenvolvimento de motores de jogos customizados com TypeScript.
+- 💬 **Talk to me about:** Software Architecture, Clean Code, Productivity, and Business Logic.
 
 ---
 
-<p align="center">
-  <a href="https://linkedin.com/in/adryantaborda"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
-  <a href="mailto:contact@adryantaborda.com"><img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail"></a>
-  <a href="https://adryantaborda.com/en/"><img src="https://img.shields.io/badge/Portfolio-black?style=flat&logo=firefox-browser"></a>
+### 🧰 Tech Stack
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Backend** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
+| **Frontend** | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) |
+| **AI & Tools** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white) |
+| **Cloud** | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white) |
+
+---
+
+### 🛠️ Projetos em Destaque
+
+* **[Alpha Hub](https://info.alphahuboficial.com.br/):** Hub de informações e gestão de tradings.
+* **[DocMasteria - ETP Livre](https://docmasteria.com.br/geracao/etp-livre):** Ferramenta especializada em geração de documentos técnicos e automação de fluxos.
+
+---
+
+### 💡 My Philosophy
+
+> "Architecture is not about stacking blocks — it's about orchestrating legibility, traceability, and trust in software."
+
+---
+
+### 📫 Let's Connect!
+
+<p align="left">
+  <a href="https://linkedin.com/in/adryantaborda"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:contact@adryantaborda.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://adryantaborda.com/en/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox-browser&logoColor=white"></a>
 </p>
