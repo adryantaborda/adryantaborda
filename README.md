@@ -34,13 +34,6 @@ Sou um desenvolvedor focado em construir sistemas escaláveis e resilientes. Atu
 
 ---
 
-### 🛠️ Projetos em Destaque
-
-* **[Alpha Hub](https://info.alphahuboficial.com.br/):** Hub de informações e gestão de tradings.
-* **[DocMasteria - ETP Livre](https://docmasteria.com.br/geracao/etp-livre):** Ferramenta especializada em geração de documentos técnicos e automação de fluxos.
-
----
-
 ### 💡 My Philosophy
 
 > "Architecture is not about stacking blocks — it's about orchestrating legibility, traceability, and trust in software."
