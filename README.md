@@ -15,7 +15,7 @@
 Most of my production-ready **FastAPI microservices**, **LLM/RAG pipelines**, and **multi-tenant SaaS architectures** are engineered under my organization:
 
 <p align="center">
-  <a href="https://github.com/SUA-ORGANIZACAO-AQUI">
+  <a href="https://github.com/SUA-ORGANIZACAO-AQUI](https://github.com/orgs/Adryan-Taborda-Portfolio/repositories">
     <img src="https://img.shields.io/badge/Access_20%2B_Production_Repositories-0d1117?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
